@@ -1,0 +1,6 @@
+[submodule "service-discovery"]
+	path = service-discovery
+	url = https://github.com/ahoy-app/service-discovery.git
+[submodule "web"]
+	path = web
+	url = https://github.com/ahoy-app/web.git
